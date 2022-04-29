@@ -120,7 +120,9 @@ header > p {
   .button:hover {
     background-color: #555;
   }
-
-  i{
-      color: blue;
+  .accordion-button{
+      background-color: #0d6efd;
+      color: white;
+      font-weight: 600;
   }
+  
